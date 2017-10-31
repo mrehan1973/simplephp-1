@@ -1,4 +1,10 @@
-<?php
-
-echo "<h1>Hello, Northeast PHP";
-echo "<h1><br>Hello, Northeast PHP";
+<html>
+ <head>
+  <title>PHP Demo</title>
+ </head>
+ <body>
+ <?php 
+   echo '<p>Hello Spectrami, This is a simple php demo</p>';   
+   ?> 
+ </body>
+</html>
